@@ -1,5 +1,7 @@
 # Tissue Fat Prediction
 
+Code can be found at GTex under RNASeq Data
+
 ## Project Description
 We chose to tackle the metabolic-disorders challenge.  Our project aims to understand the relationship between gene expression and fat accumulation in the pancreas and liver.
 
